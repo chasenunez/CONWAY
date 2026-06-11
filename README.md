@@ -107,4 +107,4 @@ I started with `ratatui` since that is what I have used for other rust UI's, but
 
 ## License
 
-The bash reference (`../conway.sh`) is MIT-licensed by Andrew McCluskey. This Rust port is offered under the same terms.
+The bash reference (`../conway.sh`) is MIT-licensed by Andrew McCluskey. Although very little of that codebase remains, this Rust port is offered under the same terms.
