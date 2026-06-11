@@ -1,7 +1,7 @@
 # CONWAY
 Complexity arises from simplicity in your terminal. Launches into a populated ecosystem by default, or drops you onto a blank canvas where you place your own live cells and watch them evolve. This is a Rust port of a math script. It now has a real input loop, toroidal edges, a diff-based renderer, and twice the vertical resolution per terminal row as the original script.
 
-![conway_trefoil](assets/trefoil.gif)
+![conway_trefoil](assets/conway_show.png)
 
 ## Features
 
